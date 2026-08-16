@@ -1,0 +1,4 @@
+﻿interface:
+  display_name: "Azuma · 碧蓝航线吾妻"
+  short_description: "碧蓝航线吾妻（猉）图鉴、技能、台词与历史考据资料库。"
+  default_prompt: "Use $azuma-skill to 查询碧蓝航线吾妻（猉）的图鉴、技能、台词与配装资料。"
